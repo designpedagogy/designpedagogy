@@ -23,7 +23,7 @@ To cultivate this kind of working relationship, however, Joanna’s peer Martin 
 
 {% include figure.html index="46" %}
 
-In addition to peers and faculty, students work directly with clients and jurors. In these situations, jurors are not merely critical evaluators, but often collaborators, too. They push on and expand student ideas and offer new suggestions or possibilities.
+In addition to peers and faculty, students work directly with clients and jurors. In these situations, jurors are not merely critical evaluators but often collaborators as well. They push on and expand student ideas and offer new suggestions or possibilities.
 
 {% include figure.html index="83" %}
 
@@ -45,7 +45,7 @@ We want to acknowledge that these complex forms of collaboration are challenging
 
 {% include figure.html index="56" %}
 
-One way that Georgetown’s Studio Collaborative responded to student concerns about collaboration was through a peer and self assessment tool. Articulated as part of the overall grading strategy, included in this document as well, students were asked to reflect on their own and their teammates’ contributions to the project.
+One way that Georgetown’s Studio Collaborative responded to student concerns about collaboration was through a peer and self assessment tool. Articulated as part of the overall grading strategy, students were asked to reflect on their own and their teammates’ contributions to the project.
 
 {% include figure.html index="73" %}
 
