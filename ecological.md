@@ -35,7 +35,7 @@ While oral presentation is an important aspect of being able to explain objects 
 {% include figure.html index="21" %}
 
 
-What we found most interesting in our observations of design studio students’ making practices was the different types of multimodality students used to enhance their learning. As we witnessed, students worked with a range of alphanumeric texts (digital and otherwise), illustrations, objects, and models. It was clear that this material, hands-on approach was vital to both the design work they were asked to do and to their learning processes.  
+What we found most interesting in our observations of design studio students’ making practices was the different types of multimodalities students used to enhance their learning. As we witnessed, students worked with a range of alphanumeric texts (digital and otherwise), illustrations, objects, and models. It was clear that this material, hands-on approach was vital to both the design work they were asked to do and to their learning processes.  
 
 However, having students create and engage with materials and models is not enough to help them become designers. As Dhillon stated in his interview, teachers must provide the context to help students become designers.  
 
