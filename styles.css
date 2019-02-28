@@ -41,6 +41,10 @@ figure {
   padding: 1rem;
 }
 
+figure.image img {
+    border: 1px solid #eee;
+}
+
 h1 {
   font-size: 2rem;
   font-weight: 300;
